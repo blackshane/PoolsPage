@@ -1,8 +1,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  # React Portfolio
-  My personal, single-page, portfolio application showcasing my projects. This project was built with React.
+  # React Pool Website
+  A single-page application for K&L Pool's website. This project was built with React.
   ## Installation
-  In the browser, navigate to: https://portfolio-react-six-pink.vercel.app/?vercelToolbarCode=X-OcPrdhQhDP0Ye
+  In the browser, navigate to: UPDATE!
   ## Usage
   This application is free to use.
   ## Contributions 
@@ -24,7 +24,7 @@ My email address is tshaneblack2014@gmail.com. You can reach me there with addit
 
 ## Table of Contents
 
-- [React Portfolio](#react-portfolio)
+- [React Pool Website](#react-pool-website)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributions](#contributions)
